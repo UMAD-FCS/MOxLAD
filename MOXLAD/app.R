@@ -24,10 +24,6 @@ ui <- dashboardPage(
                 menuItem("METODOLOGÍA", tabName = "metodologia"),
                 menuItem("ACERCA DE", tabName = "acercade")
                 
-                
-                
-                
-                
                 )),
   
   dashboardBody(
@@ -58,7 +54,7 @@ ui <- dashboardPage(
               br(),
               br(),
               h4("Sitio en construcción"),
-              h4("Comunicarse a: moxlad@cienciassociales.edu.uy"),
+              h4("Comunicarse a: umad.moxlad@cienciassociales.edu.uy"),
               
               # column(6,img(src = "SIIAS_Logo_2022_MIDES_fondo_transp.png",
               #              style = "float: left;",

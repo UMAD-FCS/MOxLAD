@@ -5,9 +5,9 @@ account: bancodedatos-fcs
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10602075
-bundleId: 7957292
+bundleId: 7958379
 url: https://bancodedatos-fcs.shinyapps.io/MOXLAD/
-when: 1700657092.83804
-lastSyncTime: 1700657092.83806
+when: 1700676449.10253
+lastSyncTime: 1700676449.10256
 asMultiple: FALSE
 asStatic: FALSE
